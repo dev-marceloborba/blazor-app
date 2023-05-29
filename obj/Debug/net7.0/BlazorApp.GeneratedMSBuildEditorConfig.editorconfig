@@ -1,0 +1,117 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlazorApp
+build_property.RootNamespace = BlazorApp
+build_property.ProjectDir = /Users/marceloborba/dev/study/dotnet/BlazorApp/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/marceloborba/dev/study/dotnet/BlazorApp
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/marceloborba/dev/study/dotnet/BlazorApp/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marceloborba/dev/study/dotnet/BlazorApp/BlazorApp/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yQXBwL0FwcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marceloborba/dev/study/dotnet/BlazorApp/BlazorApp/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yQXBwL1BhZ2VzL0NvdW50ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marceloborba/dev/study/dotnet/BlazorApp/BlazorApp/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yQXBwL1BhZ2VzL0ZldGNoRGF0YS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marceloborba/dev/study/dotnet/BlazorApp/BlazorApp/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yQXBwL1BhZ2VzL0luZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marceloborba/dev/study/dotnet/BlazorApp/BlazorApp/Pages/MyComp.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yQXBwL1BhZ2VzL015Q29tcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marceloborba/dev/study/dotnet/BlazorApp/BlazorApp/Pages/TestPage.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yQXBwL1BhZ2VzL1Rlc3RQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marceloborba/dev/study/dotnet/BlazorApp/BlazorApp/Shared/LoginDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yQXBwL1NoYXJlZC9Mb2dpbkRpc3BsYXkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marceloborba/dev/study/dotnet/BlazorApp/BlazorApp/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yQXBwL1NoYXJlZC9TdXJ2ZXlQcm9tcHQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marceloborba/dev/study/dotnet/BlazorApp/BlazorApp/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yQXBwL19JbXBvcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marceloborba/dev/study/dotnet/BlazorApp/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marceloborba/dev/study/dotnet/BlazorApp/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marceloborba/dev/study/dotnet/BlazorApp/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marceloborba/dev/study/dotnet/BlazorApp/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marceloborba/dev/study/dotnet/BlazorApp/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marceloborba/dev/study/dotnet/BlazorApp/BlazorApp/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yQXBwL1NoYXJlZC9NYWluTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-c60gwv8g48
+
+[/Users/marceloborba/dev/study/dotnet/BlazorApp/BlazorApp/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yQXBwL1NoYXJlZC9OYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-q4fv3j8r1m
+
+[/Users/marceloborba/dev/study/dotnet/BlazorApp/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-3ij3p7wwc4
+
+[/Users/marceloborba/dev/study/dotnet/BlazorApp/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-wk4bcz64v1
+
+[/Users/marceloborba/dev/study/dotnet/BlazorApp/BlazorApp/Areas/Identity/Pages/Account/LogOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yQXBwL0FyZWFzL0lkZW50aXR5L1BhZ2VzL0FjY291bnQvTG9nT3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marceloborba/dev/study/dotnet/BlazorApp/BlazorApp/Areas/Identity/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yQXBwL0FyZWFzL0lkZW50aXR5L1BhZ2VzL1NoYXJlZC9fTG9naW5QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marceloborba/dev/study/dotnet/BlazorApp/BlazorApp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yQXBwL1BhZ2VzL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marceloborba/dev/study/dotnet/BlazorApp/BlazorApp/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yQXBwL1BhZ2VzL19Ib3N0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marceloborba/dev/study/dotnet/BlazorApp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marceloborba/dev/study/dotnet/BlazorApp/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
